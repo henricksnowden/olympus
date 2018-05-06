@@ -2108,7 +2108,7 @@ nav a:hover {
 }
 
 .banner-area {
-    background: no-repeat center center/cover
+    background: url(../img/header-bg.jpg) no-repeat center center/cover
 }
 
 @media (max-width: 767px) {
@@ -2118,8 +2118,8 @@ nav a:hover {
 }
 
 .banner-area .overlay-bg {
-    opacity: .9;
-    background-color: #057b80
+    opacity: .3;
+    background-color: #7f3f3b
 }
 
 .banner-content {
@@ -2224,6 +2224,10 @@ nav a:hover {
     }
 }
 
+.facilities-area {
+    background-color: #ece9e7
+}
+
 .facilities-area .header-text {
     text-align: center
 }
@@ -2260,8 +2264,9 @@ nav a:hover {
     }
 }
 
+
 .speaker-area {
-    background-color: #f9f9ff
+    background-color: #dee2e4
 }
 
 .speaker-area .header-text {
@@ -2292,6 +2297,41 @@ nav a:hover {
     .speaker-wrap {
         margin-bottom: 30px
     }
+}
+    .talk-area {
+        background-color: #101029
+    }
+    
+    .talk-area .header-text {
+        text-align: left
+    }
+    
+    .talk-area .header-text h1 {
+        margin-bottom: 25px
+    }
+    
+    .talk-wrap {
+        text-align: left
+    }
+    
+    .talk-wrap h2 {
+        font-size: 20px;
+        font-weight: 600;
+        margin-top: 30px
+    }
+    
+    .talk-wrap p {
+        font-size: 14px;
+        font-weight: 300;
+        margin-top: 8px
+    }
+    
+    @media (max-width: 767px) {
+        .talk-wrap {
+            margin-bottom: 30px
+        }
+    
+
 }
 
 .single-speaker .single-speaker .title {
@@ -2695,4 +2735,160 @@ h6 {
 
 .footer-text a, .footer-text i {
     color: #C732FF
+}
+
+
+/*If shit goes south, get rid of this stuff! */
+.P1 {
+    font-size: 12pt;
+    text-align: left ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    line-height: 100%;
+}
+
+.P10 {
+    font-size: 12pt;
+    text-align: left ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    margin-left: 1.27cm;
+    margin-right: 0cm;
+    line-height: 100%;
+    text-indent: 0cm;
+    text-decoration: none ! important;
+    font-weight: normal;
+}
+
+.P11 {
+    font-size: 12pt;
+    text-align: left ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    margin-left: 1.905cm;
+    margin-right: 0cm;
+    line-height: 100%;
+    text-indent: 0cm;
+}
+
+.P12 {
+    font-size: 12pt;
+    text-align: center ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    line-height: 100%;
+}
+
+.P2 {
+    font-size: 12pt;
+    text-align: left ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    line-height: 100%;
+}
+
+.P3 {
+    font-size: 12pt;
+    text-align: left ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    line-height: 100%;
+}
+
+.P4 {
+    font-size: 12pt;
+    text-align: left ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    line-height: 100%;
+}
+
+.P5 {
+    font-size: 12pt;
+    text-align: left ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    line-height: 100%;
+}
+
+.P6 {
+    font-size: 12pt;
+    text-align: left ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    line-height: 100%;
+}
+
+.P7 {
+    font-size: 12pt;
+    text-align: left ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    line-height: 100%;
+}
+
+.P8 {
+    font-size: 12pt;
+    text-align: center ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    line-height: 100%;
+    font-weight: bold;
+}
+
+.P9 {
+    font-size: 12pt;
+    text-align: left ! important;
+    font-family: Liberation Serif;
+    writing-mode: lr-tb;
+    line-height: 100%;
+    text-decoration: none ! important;
+    font-weight: normal;
+}
+
+.Internet_20_link {
+    color: #000080;
+    text-decoration: underline;
+}
+
+.ListLabel_20_1 {
+    font-size: 12pt;
+    font-weight: normal;
+}
+
+.ListLabel_20_10 {
+    font-size: 12pt;
+    font-weight: normal;
+}
+
+.T1 {
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+.T2 {
+    font-size: 12pt;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.T3 {
+    font-size: 12pt;
+}
+
+.T4 {
+    font-size: 12pt;
+    font-weight: normal;
+}
+
+.T5 {
+    font-size: 12pt;
+    text-decoration: none ! important;
+    font-weight: normal;
+}
+
+.T6 {
+    font-size: 12pt;
+    text-decoration: none ! important;
+    font-weight: bold;
 }
