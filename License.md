@@ -27,7 +27,10 @@
  The views and conclusions contained in the software and its accompanying documentation are
  those of the authors and should not be interpreted as representing official policies, either expressed
  or implied, of any of my current and/or former employers.
+
+ Some of the CSS styles/themes/files and javascript action is copyrighted to other parties. This license
+ does not invalidate, revoke and/or modify the licensing terms of those copyright holders.
  
- ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES THE RECIPIENT'S
+ ANY USE, REPRODUCTION AND/OR DISTRIBUTION OF THE SOFTWARE CONSTITUTES THE RECIPIENT'S
  ACCEPTANCE OF THIS AGREEMENT.
  
