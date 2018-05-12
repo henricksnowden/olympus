@@ -9,7 +9,7 @@
     $text= $_POST["no-room"];
     $text= $_POST["adults"];
     $text= $_POST["child"];
-    
+     
 
 
     $headers = 'MIME-Version: 1.0' . "\r\n";
