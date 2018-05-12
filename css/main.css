@@ -2097,10 +2097,10 @@ nav a:hover {
 }
 
 .default-header {
-    background-color: rgb(92, 49, 212);
+    background-color: rgba(240, 20, 229, 0.651);
     padding: 20px 0;
     width: 100% !important;
-    box-shadow: -21.213px 21.213px 30px 0px rgba(158, 158, 158, 0.3)
+    box-shadow: -15px 15px 30px 0px rgba(252, 16, 16, 0.178)
 }
 
 .sticky-wrapper {
@@ -2266,11 +2266,11 @@ nav a:hover {
 
 
 .speaker-area {
-    background-color: #dee2e4
+    background-color: #bde3ec
 }
 
 .speaker-area .header-text {
-    text-align: center
+    text-align: left
 }
 
 .speaker-area .header-text h1 {
