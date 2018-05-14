@@ -93,9 +93,17 @@ a, a:focus, a:hover {
     background: #f9f9ff
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4{
     font-family: "Poppins", sans-serif;
-    color: rgb(203, 21, 209);
+    color: rgb(113, 53, 224);
+    line-height: 1.2em !important;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 600
+}
+h5, h6 {
+    font-family: "Poppins", sans-serif;
+    color: rgb(51, 223, 16);
     line-height: 1.2em !important;
     margin-bottom: 0;
     margin-top: 0;
@@ -1848,7 +1856,7 @@ body {
 }
 
 .menu-bar span {
-    color: #000;
+    color: rgb(238, 235, 45);
     font-size: 24px
 }
 
@@ -2097,10 +2105,10 @@ nav a:hover {
 }
 
 .default-header {
-    background-color: rgba(240, 20, 229, 0.651);
+    background-color: rgba(240, 20, 229, 0.87);
     padding: 20px 0;
     width: 100% !important;
-    box-shadow: -15px 15px 30px 0px rgba(252, 16, 16, 0.178)
+    box-shadow: -15px 15px 30px 0px rgba(82, 80, 80, 0.082)
 }
 
 .sticky-wrapper {
