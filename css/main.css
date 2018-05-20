@@ -1,3 +1,10 @@
+/*
+ Most classes have been removed as they were no longer deemed important,
+ and will probably not be used in the future.
+
+ Check the licensing with Colorlib.
+*/
+
 ::-moz-selection {
     background-color: #C732FF;
     color: #fff
@@ -1216,7 +1223,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 40px;
     border: none;
     outline: none;
-    background: #f9f9ff;
+    background: #f9f9ffc9;
     padding: 0 20px
 }
 
@@ -2606,19 +2613,6 @@ h6 {
 
 .copy-right-text i, .copy-right-text a {
     color: #C732FF
-}
-
-.instafeed {
-    margin: -5px
-}
-
-.instafeed li {
-    overflow: hidden;
-    width: 25%
-}
-
-.instafeed li img {
-    margin: 5px
 }
 
 .footer-social a {
