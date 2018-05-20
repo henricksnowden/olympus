@@ -2496,13 +2496,13 @@ nav a:hover {
 }
 
 .calender-area .single-event:hover {
+    background-color: #797979;
     color: #fff;
     cursor: pointer
 }
 
 .calender-area .single-event p {
     font-size: 14px;
-    font-color: #222;
     font-weight: 600
 }
 
