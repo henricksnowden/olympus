@@ -7,7 +7,7 @@
 	<!-- Favicon-->
 	<link rel="shortcut icon" href="img/fav-icon.png">
 	<!-- Author Meta -->
-	<meta name="author" content="Colorlib">
+	<meta name="author" content="Trasicio Maina">
 	<!-- Meta Description -->
 	<meta name="description" content="">
 	<!-- Meta Keyword -->
@@ -38,7 +38,7 @@
 			<div class="header-wrap">
 				<div class="header-top d-flex justify-content-between align-items-center">
 					<div class="logo">
-						<a href="contact.html">
+						<a href="contact.php">
 							<b>
 								<h4> Trasicio Maina</h4>
 							</b>
@@ -46,9 +46,9 @@
 					</div>
 					<div class="main-menubar d-flex align-items-center">
 						<nav class="hide">
-							<a href="advertise.html">Advertise Here</a>
-							<a href="contact.html">Contact me</a>
-							<a href="disclaimer.html">Important</a>
+							<a href="advertise.php">Advertise Here</a>
+							<a href="contact.php">Contact me</a>
+							<a href="disclaimer.php">Important</a>
 						</nav>
 						<div class="menu-bar">
 							<span class="lnr lnr-menu"></span>
@@ -72,7 +72,7 @@
 						</b>
 					</h1>
 					<p>
-						<img src="img/ME.jpg" alt="">
+						<img src="img/Drapper.jpg" alt="">
 				</div>
 			</div>
 		</div>
@@ -344,13 +344,13 @@
 						<b>
 							<ul class="footer-nav">
 								<li>
-									<a href="advertise.html">Advertise</a>
+									<a href="advertise.php">Advertise</a>
 								</li>
 								<li>
-									<a href="contact.html">Contact me</a>
+									<a href="contact.php">Contact me</a>
 								</li>
 								<li>
-									<a href="disclaimer.html">Important</a>
+									<a href="disclaimer.php">Important</a>
 								</li>
 							</ul>
 						</b>
@@ -367,13 +367,13 @@
 							<!--Legal stuff-->
 							<ul class="footer-nav">
 								<li>
-									<a href="disclaimer.html">Disclaimer</a>
+									<a href="disclaimer.php">Disclaimer</a>
 								</li>
 								<li>
-									<a href="privacy.html">Privacy Policy</a>
+									<a href="privacy.php">Privacy Policy</a>
 								</li>
 								<li>
-									<a href="service-terms.html">Terms of Service</a>
+									<a href="service-terms.php">Terms of Service</a>
 								</li>
 							</ul>
 						</b>

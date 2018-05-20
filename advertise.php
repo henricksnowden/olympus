@@ -7,7 +7,7 @@
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/fav-icon.png">
     <!-- Author Meta -->
-    <meta name="author" content="Colorlib">
+    <meta name="author" content="Trasicio Maina">
     <!-- Meta Description -->
     <meta name="description" content="">
     <!-- Meta Keyword -->
@@ -38,7 +38,7 @@
             <div class="header-wrap">
                 <div class="header-top d-flex justify-content-between align-items-center">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="index.php">
                             <b>
                                 <h4> Trasicio Maina</h4>
                             </b>
@@ -46,13 +46,13 @@
                     </div>
                     <div class="main-menubar d-flex align-items-center">
                         <nav class="hide">
-                            <a href="index.html">Home</a>
-                            <a href="contact.html">Contact me</a>
-                            <a href="disclaimer.html">Important</a>
+                            <a href="index.php">Home</a>
+                            <a href="contact.php">Contact me</a>
+                            <a href="disclaimer.php">Important</a>
                         </nav>
                         <div class="menu-bar">
                             <span class="lnr lnr-menu"></span>
-                        </div>
+                        </div> <!-- Keep this class for appearance's sake-->
                     </div>
                 </div>
             </div>
@@ -65,21 +65,11 @@
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-md-8 pb-80 header-text">
-                    <h1>Disclaimer</h1>
+                    <h1>Advertise on this site.</h1>
                     <p>
-                        This is a personal website owned (and largely maintained by) Trasicio Maina. The owner and/or site maintainer(s) shall not
-                        be liable for the validity of any external links. They neither have control over, nor do they assume
-                        any responsibility for the content, privacy policies, and/or practices of any third party web sites
-                        or services.
-                        <br>While care has been taken to protect any data that you may submit to this site against access by
-                        third parties, you are not guaranteed (express or implied) of the security of any such data either
-                        during capture, transmission, processing or storage.
-                        </br>
-                        <br> By using this site, you agree that you have read and are in agreement with the
-                        <a href="privacy.html">
-                            Privacy policy </a> and the
-                        <a href="service-terms.html"> Terms of service</a>.
-                        </br>
+                        <br> To advertise on this site, send an email to
+                        <a href="mailto:cisiomaina@gmail.com?subject=Advertising%20options">cisiomaina@gmail.com</a>.
+                        <br>We will get back to you as soon as possible.
                         <br>
                 </div>
             </div>
@@ -121,13 +111,13 @@
                         <b>
                             <ul class="footer-nav">
                                 <li>
-                                    <a href="advertise.html">Advertise</a>
+                                    <a href="advertise.php">Advertise</a>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact me</a>
+                                    <a href="contact.php">Contact me</a>
                                 </li>
                                 <li>
-                                    <a href="disclaimer.html">Important</a>
+                                    <a href="disclaimer.php">Important</a>
                                 </li>
                             </ul>
                         </b>
@@ -144,18 +134,19 @@
                             <!--Legal stuff-->
                             <ul class="footer-nav">
                                 <li>
-                                    <a href="disclaimer.html">Disclaimer</a>
+                                    <a href="disclaimer.php">Disclaimer</a>
                                 </li>
                                 <li>
-                                    <a href="privacy.html">Privacy Policy</a>
+                                    <a href="privacy.php">Privacy Policy</a>
                                 </li>
                                 <li>
-                                    <a href="service-terms.html">Terms of Service</a>
+                                    <a href="service-terms.php">Terms of Service</a>
                                 </li>
                             </ul>
                         </b>
                     </div>
                 </div>
+
             </div>
             <div class="row footer-bottom d-flex justify-content-between">
                 <p class="col-lg-8 col-sm-12 footer-text m-0 text-white">

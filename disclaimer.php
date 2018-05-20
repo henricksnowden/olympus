@@ -7,7 +7,7 @@
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/fav-icon.png">
     <!-- Author Meta -->
-    <meta name="author" content="Colorlib">
+    <meta name="author" content="Trasicio Maina">
     <!-- Meta Description -->
     <meta name="description" content="">
     <!-- Meta Keyword -->
@@ -38,15 +38,17 @@
             <div class="header-wrap">
                 <div class="header-top d-flex justify-content-between align-items-center">
                     <div class="logo">
-                        <a href="index.html">
-                            <h5> Trasicio Maina</h5>
+                        <a href="index.php">
+                            <b>
+                                <h4> Trasicio Maina</h4>
+                            </b>
                         </a>
                     </div>
                     <div class="main-menubar d-flex align-items-center">
                         <nav class="hide">
-                            <a href="index.html">Home</a>
-                            <a href="contact.html">Contact me</a>
-                            <a href="disclaimer.html">Important</a>
+                            <a href="index.php">Home</a>
+                            <a href="contact.php">Contact me</a>
+                            <a href="disclaimer.php">Important</a>
                         </nav>
                         <div class="menu-bar">
                             <span class="lnr lnr-menu"></span>
@@ -63,82 +65,22 @@
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-md-8 pb-80 header-text">
-                    <h1>Privacy Policy</h1>
+                    <h1>Disclaimer</h1>
                     <p>
+                        This is a personal website owned (and largely maintained by) Trasicio Maina. The owner and/or site maintainer(s) shall not
+                        be liable for the validity of any external links. They neither have control over, nor do they assume
+                        any responsibility for the content, privacy policies, and/or practices of any third party web sites
+                        or services.
+                        <br>While care has been taken to protect any data that you may submit to this site against access by
+                        third parties, you are not guaranteed (express or implied) of the security of any such data either
+                        during capture, transmission, processing or storage.
+                        </br>
+                        <br> By using this site, you agree that you have read and are in agreement with the
+                        <a href="privacy.php">
+                            Privacy policy </a> and the
+                        <a href="service-terms.php"> Terms of service</a>.
+                        </br>
                         <br>
-                        <h6>
-                            <font color="red">Data Collection Policy</font>
-                        </h6>
-                        Any information collected from you by this site may be used in any (or several) of the following ways:
-                        <ul>
-                            <li>
-                                1. To personalize your experience.
-                            </li>
-                            <li>
-                                2. To improve this website (we continually strive to improve this website based on the information and feedback that we receive
-                                from you).
-                            </li>
-                            <li>
-                                3. To administer a contest, promotion, survey or other site feature.
-                            </li>
-                            <li>
-                                4. To give you information and updates based on your query, in addition to receiving occasional news, updates, related product
-                                or service information, etc.
-                            </li>
-                            </br>
-                            <br>
-                            <h6>
-                                <font color="red">Does this site use cookies?</font>
-                            </h6>
-                            Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web
-                            browser that enable the website to recognize your browser and capture and remember certain information.
-                            We use cookies to keep track of advertisements and compile aggregate data about site traffic
-                            and site interaction so that we can offer better site experience and tools in the future. If
-                            you prefer, you can choose to have your browser warn you each time a cookie is being sent, or
-                            you can choose to turn off all cookies via your browser settings. Like most websites, if you
-                            turn your cookies off, some of our services may not function properly.
-                            </br>
-                            <br>
-                            <h6>
-                                <font color="red">Does this site disclose any information to outside parties?</font>
-                            </h6>
-                            We do not sell, trade, or otherwise transfer to outside parties any of your personally identifiable information. We may release
-                            your information when we believe that doing so is appropriate to comply with the law, enforce
-                            the site's policies, or protect our or other people's rights, property, or safety. Non-personally
-                            identifiable visitor information may be provided to other parties for marketing, advertising,
-                            or other uses.
-                            </br>
-                            <br>
-                            <h6>
-                                <font color="red">Third party links</font>
-                            </h6>
-                            Occasionally, at our discretion, we may include or offer third party products or services on this website. These third party
-                            sites have separate and independent privacy policies. We have no responsibility or liability
-                            for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity
-                            of this site and welcome any feedback about these sites.
-
-                            </br>
-                            <br>
-                            <h6>
-                                <font color="red">Terms and Conditions</font>
-                            </h6>
-                            Please visit our
-                            <a href="service-terms.php"> Terms and Conditions </a> section establishing the use, disclaimers, and limitations of liability
-                            governing the use of this website.
-
-                            </br>
-                            <br>
-                            <h6>
-                                <font color="red">Your Consent</font>
-                            </h6>
-                            By using this site, you consent to this privacy policy.
-
-                            </br>
-                            <br>
-                            <h6>
-                                <font color="red">Changes to our Privacy Policy</font>
-                            </h6>
-                            If we decide to change the privacy policy, we will post those changes on this page.
                 </div>
             </div>
         </div>
@@ -179,13 +121,13 @@
                         <b>
                             <ul class="footer-nav">
                                 <li>
-                                    <a href="advertise.html">Advertise</a>
+                                    <a href="advertise.php">Advertise</a>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact me</a>
+                                    <a href="contact.php">Contact me</a>
                                 </li>
                                 <li>
-                                    <a href="disclaimer.html">Important</a>
+                                    <a href="disclaimer.php">Important</a>
                                 </li>
                             </ul>
                         </b>
@@ -202,13 +144,13 @@
                             <!--Legal stuff-->
                             <ul class="footer-nav">
                                 <li>
-                                    <a href="disclaimer.html">Disclaimer</a>
+                                    <a href="disclaimer.php">Disclaimer</a>
                                 </li>
                                 <li>
-                                    <a href="privacy.html">Privacy Policy</a>
+                                    <a href="privacy.php">Privacy Policy</a>
                                 </li>
                                 <li>
-                                    <a href="service-terms.html">Terms of Service</a>
+                                    <a href="service-terms.php">Terms of Service</a>
                                 </li>
                             </ul>
                         </b>

@@ -7,7 +7,7 @@
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/fav-icon.png">
     <!-- Author Meta -->
-    <meta name="author" content="Colorlib">
+    <meta name="author" content="Trasicio Maina">
     <!-- Meta Description -->
     <meta name="description" content="">
     <!-- Meta Keyword -->
@@ -38,7 +38,7 @@
             <div class="header-wrap">
                 <div class="header-top d-flex justify-content-between align-items-center">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="index.php">
                             <b>
                                 <h4> Trasicio Maina</h4>
                             </b>
@@ -46,9 +46,9 @@
                     </div>
                     <div class="main-menubar d-flex align-items-center">
                         <nav class="hide">
-                            <a href="index.html">Home</a>
-                            <a href="contact.html">Contact me</a>
-                            <a href="disclaimer.html">Important</a>
+                            <a href="index.php">Home</a>
+                            <a href="contact.php">Contact me</a>
+                            <a href="disclaimer.php">Important</a>
                         </nav>
                         <div class="menu-bar">
                             <span class="lnr lnr-menu"></span>
@@ -60,67 +60,32 @@
     </header>
     <!-- End Header Area -->
 
-    <!-- Start speaker Area -->
-    <section class="speaker-area section-gap" id="speaker">
-        <div class="container">
-            <div class="row d-flex justify-content-center">
-                <div class="col-md-8 pb-80 header-text">
-                    <h1>Terms of Service</h1>
-                    Your access to and use of this website constitutes your acceptance of and compliance with these Terms. These Terms apply
-                    to all visitors, users and any other person who access or use the website.
-                    <br></br>
-                    <h6>
-                        <font color="red">Limitation of Liability</font>
-                    </h6>
-                    This Website is provided “as is,” with all its faults, and we make no express or implied representations or warranties, of
-                    any kind related to this Website or the materials contained on this Website. Additionally, nothing contained
-                    on this Website shall be construed as providing consult or advice to you.
-                    <br></br>
-                    <h6>
-                        <font color="red">Links To Other Web Sites</font>
-                    </h6>
-                    This website may contain links to third-party web sites or services that are not owned or controlled by us. You further acknowledge
-                    and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss
-                    caused or alleged to be caused by or in connection with use of or reliance on any such content, goods
-                    or services available on or through any such web sites or services.
-                    <br></br>
-                    <h6>
-                        <font color="red">Changes</font>
-                    </h6>
-                    We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If we deem a revision material
-                    enough, we will try to provide a notice prior to any new terms taking effect. What constitutes a material
-                    change will be determined at our sole discretion.
-                    <br>
-                    <br> By accessing and/or using this website you agree to be bound by these Terms. If you disagree with any
-                    part of the terms then you may not access the website.
-                    <p>
-                        </br>
-                        <br>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End speaker Area -->
-
-
-    <!-- Start qoutes Area -->
+    <!-- Start contacts Area -->
     <section class="calender-area relative section-gap">
         <div class="overlay overlay-bg"></div>
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-md-8 pb-80 header-text">
-                    <h1></h1>
                     <p>
-                        <font color="aqua" size="4">Stubbornly persist, and you'll find that the limits of your stubbornness go well beyond the stubbornness
-                            of your limits.</font>
-                        <br>
-                        <font color="yellow" size="5">~Robert Brault.</font>
+                        <!-- <font color="aqua" size="6">
+                            <a href="mailto:cisiomaina@gmail.com?subject=New%20User%20Mail">Click here to send me an Email</a></font>
+                       -->
+                        <font color="aqua" size="5" <p>
+                            <br>
+                            <br>
+                            <br> Email: cisiomaina@gmail.com
+                            <br> Github:
+                        </font>
+                        <a href="https://www.github.com/henricksnowden" target="_blank">www.github.com/henricksnowden</a>
+                        </font>
+                    </p>
+                    </font>
                     </p>
                 </div>
             </div>
         </div>
     </section>
-    <!-- End qoutes Area -->
+    <!-- End contacts Area -->
 
 
     <!-- start footer Area -->
@@ -129,20 +94,17 @@
             <div class="row">
                 <div class="col-lg-3  col-md-12">
                     <div class="single-footer-widget">
-
-                        <!-- Adverts-->
-
                         <h4>Important Links</h4>
                         <b>
                             <ul class="footer-nav">
                                 <li>
-                                    <a href="advertise.html">Advertise</a>
+                                    <a href="advertise.php">Advertise</a>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact me</a>
+                                    <a href="contact.php">Contact me</a>
                                 </li>
                                 <li>
-                                    <a href="disclaimer.html">Important</a>
+                                    <a href="disclaimer.php">Important</a>
                                 </li>
                             </ul>
                         </b>
@@ -159,13 +121,13 @@
                             <!--Legal stuff-->
                             <ul class="footer-nav">
                                 <li>
-                                    <a href="disclaimer.html">Disclaimer</a>
+                                    <a href="disclaimer.php">Disclaimer</a>
                                 </li>
                                 <li>
-                                    <a href="privacy.html">Privacy Policy</a>
+                                    <a href="privacy.php">Privacy Policy</a>
                                 </li>
                                 <li>
-                                    <a href="service-terms.html">Terms of Service</a>
+                                    <a href="service-terms.php">Terms of Service</a>
                                 </li>
                             </ul>
                         </b>
