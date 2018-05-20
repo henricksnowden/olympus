@@ -1,3 +1,8 @@
+/*
+ * The main js functionality.
+ * 
+ */
+
 
 $(document).ready(function(){
 	"use strict";
@@ -33,7 +38,7 @@ $(document).ready(function(){
 
   // Select all links with hashes
   $('.main-menubar a[href*="#"]')
-    // Remove links that don't actually link to anything
+    // Remove links that don't actually link to anything, not really needed.
     .not('[href="#"]')
     .not('[href="#0"]')
     .click(function(event) {
@@ -71,14 +76,7 @@ $(document).ready(function(){
 
     $(document).ready(function() {
         $('#mc_embed_signup').find('form').ajaxChimp();
-    });      
-  
-var unavailableDates = [
-{start: '2015-08-31', end: '2015-09-05'},
-    {start: '2015-09-11', end: '2015-09-15'},
-    {start: '2015-09-15', end: '2015-09-23'},
-    {start: '2015-10-01', end: '2015-10-07'}
-];
+    });
 
 $('#calendar').availabilityCalendar(unavailableDates);
 

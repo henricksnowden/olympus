@@ -1957,14 +1957,6 @@ nav a:hover {
     background-image: -ms-linear-gradient(0deg, #691cff 0%, #ef1cb4 100%)
 }
 
-.p1-gradient-color, .sigle-facilities:hover .lnr, .single-events .details h4:hover, .footer-social a:hover {
-    background: -moz-linear-gradient(0deg, #ca2dff 0%, #8e96f8 55%, #52fff1 100%);
-    background: -webkit-linear-gradient(0deg, #ca2dff 0%, #8e96f8 55%, #52fff1 100%);
-    background: -ms-linear-gradient(0deg, #ca2dff 0%, #8e96f8 55%, #52fff1 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent
-}
-
 .p2-gradient-color {
     background: -moz-linear-gradient(to left bottom, #8bfe73, #b1ef54, #cfdf3d, #e7ce31, #fabc33);
     background: -webkit-linear-gradient(to left bottom, #8bfe73, #b1ef54, #cfdf3d, #e7ce31, #fabc33);
@@ -2255,17 +2247,8 @@ nav a:hover {
     text-align: center
 }
 
-.sigle-facilities .lnr {
-    font-size: 35px;
-    color: #777;
-    -webkit-transition: all 0.3s ease 0s;
-    -moz-transition: all 0.3s ease 0s;
-    -o-transition: all 0.3s ease 0s;
-    transition: all 0.3s ease 0s
-}
-
 .sigle-facilities:hover {
-    cursor: pointer
+    cursor: -webkit-grab
 }
 
 .sigle-facilities h4 {
@@ -2513,16 +2496,6 @@ nav a:hover {
     font-weight: 600
 }
 
-.calender-area .single-event .lnr {
-    margin-right: 20px
-}
-
-@media (max-width: 768px) {
-    .calender-area .single-event .lnr {
-        margin-right: 0px
-    }
-}
-
 .events-area .header-text {
     text-align: center
 }
@@ -2565,10 +2538,6 @@ nav a:hover {
 
 .single-events .details h4:hover {
     cursor: pointer
-}
-
-.single-events .details .meta .likes, .single-events .details .meta .lnr {
-    margin-right: 10px
 }
 
 @media (max-width: 1024px) {

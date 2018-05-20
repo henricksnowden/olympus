@@ -186,9 +186,6 @@
 .lnr-location:before {
 	content: "\e835";
 }
-.lnr-calendar-full:before {
-	content: "\e836";
-}
 .lnr-keyboard:before {
 	content: "\e837";
 }
