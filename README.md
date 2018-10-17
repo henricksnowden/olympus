@@ -1,7 +1,5 @@
  Copyright Trasicio Maina <cisiomaina@gmail.com> 2018.
- 
- This is a personal website belonging to Trasicio Maina, see
-  License.md for copyright information.
+ See COPYING for copyright information.
 
   The website is developed with two aims;
   > To enable me gain better knowledge of Microsoft Azure, and,
