@@ -6,11 +6,7 @@
   > To give me an online presence since I do not use social media sites.
 
   The website has minimal media functionality and almost no user interaction.
-  Anonymous users can communicate with the site owner by sending me a direct message or via email.
-  They may also choose to take a look at my publicly available projects on Github.
-
-  Those seeking to advertise on the site may send a direct message through the website, or, alternatively,
-  they may choose to send an email if they think themselves too formal.
+  Anonymous users can communicate with the site owner by sending a direct message or via email.
 
   I neither have the resources to deal with usernames and passwords nor am I willing to deal with it. As such, users cannot signup with the site.
 
